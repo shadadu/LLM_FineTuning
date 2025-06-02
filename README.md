@@ -14,5 +14,5 @@ The SemArt data set is a data set of artwork and corresponding textual comments.
 Given an article, this agentic app uses an LLM to extract all statements and/or assertions. Another LLM then generates counterfactuals or hypothesis to each of the extracted statements. These counterfactuals could be new ideas or research pathways. The next thing then is to fact check these counterfactual hypothesis to see if they pass a minimal factuality or validity test by cross-checking them with a wikipedia LLM that is queried to see if the counterfactual hypothesis go against any known knowledge facts. The agentic_article_researcher can be a basis for developing a deep research agent 
 
 # Data and models
-Data and the fine tuned models are available at Hugging Face:https://huggingface.co/shaddie
+Data and the fine tuned models are available at Hugging Face: https://huggingface.co/shaddie
 
